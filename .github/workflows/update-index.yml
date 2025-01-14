@@ -28,8 +28,9 @@ jobs:
 
       # Run the update-index.py script
       - name: Run update-index.py
+        env:
+          GH_TOKEN: ${{ secrets.X_GITHUB_TOKEN }}
         run: |
-          echo ${{ secrets.X_GITHUB_TOKEN }}
           python update-index.py
 
       # Commit and push the changes to the repository
