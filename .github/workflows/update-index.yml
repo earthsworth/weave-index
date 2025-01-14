@@ -26,12 +26,10 @@ jobs:
         run: |
           pip install -r requirements.txt
 
-      - name: Set env
-        run: echo "GH_TOKEN=${{ secrets.X_GITHUB_TOKEN }}" >> $GITHUB_ENV
-
       # Run the update-index.py script
       - name: Run update-index.py
         run: |
+          GH_TOKEN=${{ secrets.X_GITHUB_TOKEN }}
           python update-index.py
 
       # Commit and push the changes to the repository
