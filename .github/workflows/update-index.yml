@@ -30,6 +30,8 @@ jobs:
     - name: Run update-index.py
       run: |
         python update-index.py
+      env:
+        GITHUB_TOKEN: ${{ secrets.X_GITHUB_TOKEN }}
 
     # Commit and push the changes to the repository
     - name: Commit and push changes
@@ -39,5 +41,3 @@ jobs:
         git add .
         git commit -m "Update indexes"
         git push
-      env:
-        GITHUB_TOKEN: ${{ secrets.X_GITHUB_TOKEN }}
