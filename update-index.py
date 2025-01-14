@@ -4,7 +4,7 @@ import sys
 import os
 import requests
 
-token = os.environ.get("GH_TOKEN")
+token = os.getenv("GH_TOKEN")
 
 keywords = [
     # kts
