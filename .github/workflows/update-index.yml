@@ -9,8 +9,6 @@ on:
 jobs:
   update-index:
     runs-on: ubuntu-latest
-    env:
-      GH_TOKEN: ${{ secrets.X_GITHUB_TOKEN }}
 
     steps:
       # Checkout the repository
@@ -30,6 +28,8 @@ jobs:
 
       # Run the update-index.py script
       - name: Run update-index.py
+        env:
+          GH_TOKEN: ${{ secrets.X_GITHUB_TOKEN }}
         run: |
           python update-index.py
 
