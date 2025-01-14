@@ -11,33 +11,34 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    # Checkout the repository
-    - name: Checkout repository
-      uses: actions/checkout@v3
+      # Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-    # Set up Python
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.12'
+      # Set up Python
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
 
-    # Install dependencies
-    - name: Install dependencies
-      run: |
-        pip install -r requirements.txt
+      # Install dependencies
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
 
-    # Run the update-index.py script
-    - name: Run update-index.py
-      run: |
-        python update-index.py
-      env:
-        X_GITHUB_TOKEN: ${{ secrets.X_GITHUB_TOKEN }}
+      - name: Set env
+        run: echo "GH_TOKEN=${{ secrets.X_GITHUB_TOKEN }}" >> $GITHUB_ENV
 
-    # Commit and push the changes to the repository
-    - name: Commit and push changes
-      run: |
-        git config --global user.name "github-actions"
-        git config --global user.email "github-actions@users.noreply.github.com"
-        git add .
-        git commit -m "Update indexes"
-        git push
+      # Run the update-index.py script
+      - name: Run update-index.py
+        run: |
+          python update-index.py
+
+      # Commit and push the changes to the repository
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@users.noreply.github.com"
+          git add .
+          git commit -m "Update indexes"
+          git push
