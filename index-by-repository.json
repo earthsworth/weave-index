@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-14T14:36:13.672421",
+  "timestamp": "2025-01-20T01:35:22.250436",
   "mods": [
     {
       "name": "ExampleMod",
@@ -218,9 +218,45 @@
       "description": "A good and one of the first Weave ghost clients"
     },
     {
-      "name": "AntiAntiAgent",
-      "repository": "ZirctaWeave/AntiAntiAgent",
-      "url": "https://github.com/ZirctaWeave/AntiAntiAgent",
+      "name": "Compass",
+      "repository": "JavaSkid/Compass",
+      "url": "https://github.com/JavaSkid/Compass",
+      "description": "Idk"
+    },
+    {
+      "name": "BaseClient",
+      "repository": "emirsassan/BaseClient",
+      "url": "https://github.com/emirsassan/BaseClient",
+      "description": "Updated base client for weave"
+    },
+    {
+      "name": "WeaveClientTemplate",
+      "repository": "exejar/WeaveClientTemplate",
+      "url": "https://github.com/exejar/WeaveClientTemplate",
+      "description": "Minecraft Utility Client Template for Weave written in Kotlin"
+    },
+    {
+      "name": "pit-quick-maths",
+      "repository": "imyanice/pit-quick-maths",
+      "url": "https://github.com/imyanice/pit-quick-maths",
+      "description": "Automatically answers Pit's quick maths questions under 1-3s"
+    },
+    {
+      "name": "LilysQoLMod",
+      "repository": "1lylily/LilysQoLMod",
+      "url": "https://github.com/1lylily/LilysQoLMod",
+      "description": "\"Quality of Life\" Weave Loader mod."
+    },
+    {
+      "name": "WiltLunar",
+      "repository": "MolokyMC/WiltLunar",
+      "url": "https://github.com/MolokyMC/WiltLunar",
+      "description": "PacketFixer in HuaYuTing Server"
+    },
+    {
+      "name": "kotlin-base",
+      "repository": "Tryflle/kotlin-base",
+      "url": "https://github.com/Tryflle/kotlin-base",
       "description": null
     },
     {
@@ -230,88 +266,16 @@
       "description": "A vanilla flight mod for weave"
     },
     {
-      "name": "CPSCap",
-      "repository": "Tryflle/CPSCap",
-      "url": "https://github.com/Tryflle/CPSCap",
-      "description": "A mod that caps your CPS."
-    },
-    {
-      "name": "Compass",
-      "repository": "JavaSkid/Compass",
-      "url": "https://github.com/JavaSkid/Compass",
-      "description": "Idk"
-    },
-    {
-      "name": "oofmod",
-      "repository": "thaYt/oofmod",
-      "url": "https://github.com/thaYt/oofmod",
-      "description": "oofmod for weave"
-    },
-    {
-      "name": "NameHistory",
-      "repository": "Ultramicroscope/NameHistory",
-      "url": "https://github.com/Ultramicroscope/NameHistory",
-      "description": "Adds the /history (or /his) command to query Laby API for a user's Name History"
-    },
-    {
-      "name": "WiltLunar",
-      "repository": "MolokyMC/WiltLunar",
-      "url": "https://github.com/MolokyMC/WiltLunar",
-      "description": "PacketFixer in HuaYuTing Server"
-    },
-    {
       "name": "mm-utils",
       "repository": "imyanice/mm-utils",
       "url": "https://github.com/imyanice/mm-utils",
       "description": "A Hypixel Murder Mystery Utilities Weave mod (Lunar Client compatible)."
     },
     {
-      "name": "WeaveYouTube",
-      "repository": "exejar/WeaveYouTube",
-      "url": "https://github.com/exejar/WeaveYouTube",
-      "description": "YouTube showcase on Weave and how it can be used to create a simple 2D ESP in Minecraft."
-    },
-    {
-      "name": "BaseClient",
-      "repository": "emirsassan/BaseClient",
-      "url": "https://github.com/emirsassan/BaseClient",
-      "description": "Updated base client for weave"
-    },
-    {
-      "name": "NoItemRelease",
-      "repository": "ZirctaWeave/NoItemRelease",
-      "url": "https://github.com/ZirctaWeave/NoItemRelease",
-      "description": null
-    },
-    {
-      "name": "LilysQoLMod",
-      "repository": "1lylily/LilysQoLMod",
-      "url": "https://github.com/1lylily/LilysQoLMod",
-      "description": "\"Quality of Life\" Weave Loader mod."
-    },
-    {
-      "name": "WeaveChamsMod",
-      "repository": "Tryflle/WeaveChamsMod",
-      "url": "https://github.com/Tryflle/WeaveChamsMod",
-      "description": "Chams!"
-    },
-    {
-      "name": "AutoWhoFix",
-      "repository": "The-Peezoo/AutoWhoFix",
-      "url": "https://github.com/The-Peezoo/AutoWhoFix",
-      "description": "AutoWho for the new Bedwars and Duels prelobby name obfuscation."
-    },
-    {
-      "name": "kodak",
-      "repository": "ballmc/kodak",
-      "url": "https://github.com/ballmc/kodak",
-      "description": "Weave Minecraft Camera Mod to view clip out of small spaces in third person view"
-    },
-    {
-      "name": "NoNightVision",
-      "repository": "Oery/NoNightVision",
-      "url": "https://github.com/Oery/NoNightVision",
-      "description": "A Weave Mod to disable Night Vision"
+      "name": "oofmod",
+      "repository": "thaYt/oofmod",
+      "url": "https://github.com/thaYt/oofmod",
+      "description": "oofmod for weave"
     }
   ]
 }
