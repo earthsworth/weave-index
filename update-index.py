@@ -8,11 +8,23 @@ token = os.getenv("GH_TOKEN")
 
 keywords = [
     # kts
-    "id(\"net.weavemc.gradle\")",  # weave 1.0
-    "id(\"com.github.weave-mc.weave-gradle\")",
+    {
+        "keyword": "id(\"net.weavemc.gradle\")",
+        "new-weave": True # weave 1.0
+    },
+    {
+        "keyword": "id(\"com.github.weave-mc.weave-gradle\")",
+        "new-weave": False  # not weave 1.0
+    },
     # groovy
-    "id \"net.weavemc.gradle\"",  # weave 1.0
-    "id \"com.github.weave-mc.weave-gradle\""
+    {
+        "keyword": "id \"net.weavemc.gradle\"",
+        "new-weave": True  # weave 1.0
+    },
+    {
+        "keyword": "id \"com.github.weave-mc.weave-gradle\"",
+        "new-weave": False  # not weave 1.0
+    },
 ]
 
 
@@ -38,7 +50,8 @@ def main():
     print("Indexing...")
     mods = []
     repository_index = set()
-    for keyword in keywords:
+    for keywordInfo in keywords:
+        keyword = keywordInfo["keyword"]
         print("Searching for: " + keyword)
         search_result = search(keyword)
         if "status" in search_result and search_result["status"] == "401":
@@ -54,12 +67,13 @@ def main():
                 repository_name = code["repository"]["full_name"]
                 if repository_name in repository_index:
                     continue  # already added
-                print(f"Found {repository_name}")
+                print(f"Found {repository_name} ({'new' if keywordInfo['new-weave'] else 'old'})")
                 mods.append({
                     "name": code["repository"]["name"],
                     "repository": repository_name,
                     "url": "https://github.com/" + repository_name,
-                    "description": code["repository"]["description"]
+                    "description": code["repository"]["description"],
+                    "newWeave": keywordInfo["new-weave"],
                 })
                 repository_index.add(repository_name)
     print("Saving indexes")

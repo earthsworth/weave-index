@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-27T01:35:43.583585",
+  "timestamp": "2025-01-31T13:54:06.262174",
   "developers": [
     {
       "name": "Weave-MC",
@@ -8,7 +8,8 @@
           "name": "ExampleMod",
           "repository": "Weave-MC/ExampleMod",
           "url": "https://github.com/Weave-MC/ExampleMod",
-          "description": null
+          "description": null,
+          "newWeave": true
         }
       ]
     },
@@ -19,55 +20,64 @@
           "name": "LegacyEvents",
           "repository": "Tryflle/LegacyEvents",
           "url": "https://github.com/Tryflle/LegacyEvents",
-          "description": "Lib for Weave 1.0"
+          "description": "Lib for Weave 1.0",
+          "newWeave": true
         },
         {
           "name": "RawInput-Weave",
           "repository": "Tryflle/RawInput-Weave",
           "url": "https://github.com/Tryflle/RawInput-Weave",
-          "description": "Directly handles input from the mouse."
+          "description": "Directly handles input from the mouse.",
+          "newWeave": true
         },
         {
           "name": "WeaveNoJumpDelay",
           "repository": "Tryflle/WeaveNoJumpDelay",
           "url": "https://github.com/Tryflle/WeaveNoJumpDelay",
-          "description": "simple njd mod for weave"
+          "description": "simple njd mod for weave",
+          "newWeave": true
         },
         {
           "name": "WeaveToggleSprint",
           "repository": "Tryflle/WeaveToggleSprint",
           "url": "https://github.com/Tryflle/WeaveToggleSprint",
-          "description": null
+          "description": null,
+          "newWeave": true
         },
         {
           "name": "WeaveSlowMining",
           "repository": "Tryflle/WeaveSlowMining",
           "url": "https://github.com/Tryflle/WeaveSlowMining",
-          "description": "A mod that slows down your swing/mining animation that can be configurated."
+          "description": "A mod that slows down your swing/mining animation that can be configurated.",
+          "newWeave": false
         },
         {
           "name": "WeaveShortcuts",
           "repository": "Tryflle/WeaveShortcuts",
           "url": "https://github.com/Tryflle/WeaveShortcuts",
-          "description": "Make command shortcuts"
+          "description": "Make command shortcuts",
+          "newWeave": false
         },
         {
           "name": "ktlon",
           "repository": "Tryflle/ktlon",
           "url": "https://github.com/Tryflle/ktlon",
-          "description": "omg ktlon"
+          "description": "omg ktlon",
+          "newWeave": false
         },
         {
           "name": "kotlin-base",
           "repository": "Tryflle/kotlin-base",
           "url": "https://github.com/Tryflle/kotlin-base",
-          "description": null
+          "description": null,
+          "newWeave": false
         },
         {
           "name": "weavebasicflight",
           "repository": "Tryflle/weavebasicflight",
           "url": "https://github.com/Tryflle/weavebasicflight",
-          "description": "A vanilla flight mod for weave"
+          "description": "A vanilla flight mod for weave",
+          "newWeave": false
         }
       ]
     },
@@ -78,7 +88,8 @@
           "name": "NoHitDelay",
           "repository": "astraltweaks/NoHitDelay",
           "url": "https://github.com/astraltweaks/NoHitDelay",
-          "description": "NoHitDelay is a weave mod that removes the 1.8.9 hit penalty but can be toggled off and on with commands."
+          "description": "NoHitDelay is a weave mod that removes the 1.8.9 hit penalty but can be toggled off and on with commands.",
+          "newWeave": true
         }
       ]
     },
@@ -89,7 +100,8 @@
           "name": "NovaX_Dev",
           "repository": "douzooo/NovaX_Dev",
           "url": "https://github.com/douzooo/NovaX_Dev",
-          "description": null
+          "description": null,
+          "newWeave": true
         }
       ]
     },
@@ -100,25 +112,29 @@
           "name": "Seraph",
           "repository": "exejar/Seraph",
           "url": "https://github.com/exejar/Seraph",
-          "description": "Statistic Weave Mod for Hypixel"
+          "description": "Statistic Weave Mod for Hypixel",
+          "newWeave": false
         },
         {
           "name": "Kolour",
           "repository": "exejar/Kolour",
           "url": "https://github.com/exejar/Kolour",
-          "description": "Simple, Powerful, and Performant GUI Library for Minecraft"
+          "description": "Simple, Powerful, and Performant GUI Library for Minecraft",
+          "newWeave": false
         },
         {
           "name": "PlayerScreenshot",
           "repository": "exejar/PlayerScreenshot",
           "url": "https://github.com/exejar/PlayerScreenshot",
-          "description": "Weave mod that takes screenshots of only your player"
+          "description": "Weave mod that takes screenshots of only your player",
+          "newWeave": false
         },
         {
           "name": "WeaveClientTemplate",
           "repository": "exejar/WeaveClientTemplate",
           "url": "https://github.com/exejar/WeaveClientTemplate",
-          "description": "Minecraft Utility Client Template for Weave written in Kotlin"
+          "description": "Minecraft Utility Client Template for Weave written in Kotlin",
+          "newWeave": false
         }
       ]
     },
@@ -129,7 +145,8 @@
           "name": "Legit-ish",
           "repository": "Legitish/Legit-ish",
           "url": "https://github.com/Legitish/Legit-ish",
-          "description": "Mixin-based utility mod for the Weave modbase."
+          "description": "Mixin-based utility mod for the Weave modbase.",
+          "newWeave": false
         }
       ]
     },
@@ -140,7 +157,8 @@
           "name": "ModernPotions",
           "repository": "ZirctaWeave/ModernPotions",
           "url": "https://github.com/ZirctaWeave/ModernPotions",
-          "description": null
+          "description": null,
+          "newWeave": false
         }
       ]
     },
@@ -151,7 +169,8 @@
           "name": "unrestricted",
           "repository": "Youded-byte/unrestricted",
           "url": "https://github.com/Youded-byte/unrestricted",
-          "description": null
+          "description": null,
+          "newWeave": false
         }
       ]
     },
@@ -162,7 +181,8 @@
           "name": "Weave-mod-menu",
           "repository": "betterclient/Weave-mod-menu",
           "url": "https://github.com/betterclient/Weave-mod-menu",
-          "description": "Mod menu for weave"
+          "description": "Mod menu for weave",
+          "newWeave": false
         }
       ]
     },
@@ -173,7 +193,8 @@
           "name": "WNC",
           "repository": "L1shed/WNC",
           "url": "https://github.com/L1shed/WNC",
-          "description": "Minecraft hacked client for Lunar Client using Weave, written in Kotlin"
+          "description": "Minecraft hacked client for Lunar Client using Weave, written in Kotlin",
+          "newWeave": false
         }
       ]
     },
@@ -184,7 +205,8 @@
           "name": "weave-optifine-url",
           "repository": "770grappenmaker/weave-optifine-url",
           "url": "https://github.com/770grappenmaker/weave-optifine-url",
-          "description": "Allows you to specify a new URL for the Optifine cape server"
+          "description": "Allows you to specify a new URL for the Optifine cape server",
+          "newWeave": false
         }
       ]
     },
@@ -195,13 +217,15 @@
           "name": "LegitVisuals",
           "repository": "svxf/LegitVisuals",
           "url": "https://github.com/svxf/LegitVisuals",
-          "description": null
+          "description": null,
+          "newWeave": false
         },
         {
           "name": "HealthIndicator",
           "repository": "svxf/HealthIndicator",
           "url": "https://github.com/svxf/HealthIndicator",
-          "description": null
+          "description": null,
+          "newWeave": false
         }
       ]
     },
@@ -212,7 +236,8 @@
           "name": "PitUtilsLunar",
           "repository": "supercoolspy/PitUtilsLunar",
           "url": "https://github.com/supercoolspy/PitUtilsLunar",
-          "description": null
+          "description": null,
+          "newWeave": false
         }
       ]
     },
@@ -223,7 +248,8 @@
           "name": "super-who",
           "repository": "Oery/super-who",
           "url": "https://github.com/Oery/super-who",
-          "description": "A Weave mod that let you list all players in tab and put it into chat."
+          "description": "A Weave mod that let you list all players in tab and put it into chat.",
+          "newWeave": false
         }
       ]
     },
@@ -234,19 +260,22 @@
           "name": "pit-utils",
           "repository": "imyanice/pit-utils",
           "url": "https://github.com/imyanice/pit-utils",
-          "description": "pit utility weave mod"
+          "description": "pit utility weave mod",
+          "newWeave": false
         },
         {
           "name": "pit-quick-maths",
           "repository": "imyanice/pit-quick-maths",
           "url": "https://github.com/imyanice/pit-quick-maths",
-          "description": "Automatically answers Pit's quick maths questions under 1-3s"
+          "description": "Automatically answers Pit's quick maths questions under 1-3s",
+          "newWeave": false
         },
         {
           "name": "mm-utils",
           "repository": "imyanice/mm-utils",
           "url": "https://github.com/imyanice/mm-utils",
-          "description": "A Hypixel Murder Mystery Utilities Weave mod (Lunar Client compatible)."
+          "description": "A Hypixel Murder Mystery Utilities Weave mod (Lunar Client compatible).",
+          "newWeave": false
         }
       ]
     },
@@ -257,24 +286,27 @@
           "name": "coc-banana",
           "repository": "1lylily/coc-banana",
           "url": "https://github.com/1lylily/coc-banana",
-          "description": null
+          "description": null,
+          "newWeave": false
         },
         {
           "name": "LilysQoLMod",
           "repository": "1lylily/LilysQoLMod",
           "url": "https://github.com/1lylily/LilysQoLMod",
-          "description": "\"Quality of Life\" Weave Loader mod."
+          "description": "\"Quality of Life\" Weave Loader mod.",
+          "newWeave": false
         }
       ]
     },
     {
-      "name": "Miguel10k",
+      "name": "NatselCat",
       "projects": [
         {
           "name": "WeavePeacefulMining",
-          "repository": "Miguel10k/WeavePeacefulMining",
-          "url": "https://github.com/Miguel10k/WeavePeacefulMining",
-          "description": "Weave Loader recreation of Cosmic Client's peaceful mining feature."
+          "repository": "NatselCat/WeavePeacefulMining",
+          "url": "https://github.com/NatselCat/WeavePeacefulMining",
+          "description": "Weave Loader recreation of Cosmic Client's peaceful mining feature.",
+          "newWeave": false
         }
       ]
     },
@@ -285,7 +317,8 @@
           "name": "barriervisibility",
           "repository": "ballmc/barriervisibility",
           "url": "https://github.com/ballmc/barriervisibility",
-          "description": "Weave Minecraft mod that allows you to see invisible barrier blocks."
+          "description": "Weave Minecraft mod that allows you to see invisible barrier blocks.",
+          "newWeave": false
         }
       ]
     },
@@ -296,13 +329,15 @@
           "name": "SessionLogin",
           "repository": "PianoPenguin471/SessionLogin",
           "url": "https://github.com/PianoPenguin471/SessionLogin",
-          "description": "Lets you login to Minecraft with a session Id. WIP"
+          "description": "Lets you login to Minecraft with a session Id. WIP",
+          "newWeave": false
         },
         {
           "name": "RavenWeaveLite",
           "repository": "PianoPenguin471/RavenWeaveLite",
           "url": "https://github.com/PianoPenguin471/RavenWeaveLite",
-          "description": null
+          "description": null,
+          "newWeave": false
         }
       ]
     },
@@ -313,7 +348,8 @@
           "name": "compass-lunar",
           "repository": "danielxies/compass-lunar",
           "url": "https://github.com/danielxies/compass-lunar",
-          "description": "squad / direction hud for lunar client"
+          "description": "squad / direction hud for lunar client",
+          "newWeave": false
         }
       ]
     },
@@ -324,7 +360,8 @@
           "name": "WeaveCrack",
           "repository": "mallusrgreatv2/WeaveCrack",
           "url": "https://github.com/mallusrgreatv2/WeaveCrack",
-          "description": null
+          "description": null,
+          "newWeave": false
         }
       ]
     },
@@ -335,7 +372,8 @@
           "name": "BmcGG",
           "repository": "MaciejK2/BmcGG",
           "url": "https://github.com/MaciejK2/BmcGG",
-          "description": "AutoGG for BlocksMC.com using Weave!"
+          "description": "AutoGG for BlocksMC.com using Weave!",
+          "newWeave": false
         }
       ]
     },
@@ -346,7 +384,8 @@
           "name": "weave-fastplace",
           "repository": "qdfqdfqdfqdf/weave-fastplace",
           "url": "https://github.com/qdfqdfqdfqdf/weave-fastplace",
-          "description": "standalone skidded fastplace - use /fastplace to toggle"
+          "description": "standalone skidded fastplace - use /fastplace to toggle",
+          "newWeave": false
         }
       ]
     },
@@ -357,7 +396,8 @@
           "name": "Twitch-Chat-In-Game",
           "repository": "solsahar/Twitch-Chat-In-Game",
           "url": "https://github.com/solsahar/Twitch-Chat-In-Game",
-          "description": null
+          "description": null,
+          "newWeave": false
         }
       ]
     },
@@ -368,7 +408,8 @@
           "name": "Velvet",
           "repository": "azureskylines/Velvet",
           "url": "https://github.com/azureskylines/Velvet",
-          "description": "It's something alright."
+          "description": "It's something alright.",
+          "newWeave": false
         }
       ]
     },
@@ -379,7 +420,8 @@
           "name": "Smok",
           "repository": "SleepyFish-YT/Smok",
           "url": "https://github.com/SleepyFish-YT/Smok",
-          "description": "A good and one of the first Weave ghost clients"
+          "description": "A good and one of the first Weave ghost clients",
+          "newWeave": false
         }
       ]
     },
@@ -390,7 +432,8 @@
           "name": "Compass",
           "repository": "JavaSkid/Compass",
           "url": "https://github.com/JavaSkid/Compass",
-          "description": "Idk"
+          "description": "Idk",
+          "newWeave": false
         }
       ]
     },
@@ -401,7 +444,8 @@
           "name": "BaseClient",
           "repository": "emirsassan/BaseClient",
           "url": "https://github.com/emirsassan/BaseClient",
-          "description": "Updated base client for weave"
+          "description": "Updated base client for weave",
+          "newWeave": false
         }
       ]
     },
@@ -412,7 +456,8 @@
           "name": "WiltLunar",
           "repository": "MolokyMC/WiltLunar",
           "url": "https://github.com/MolokyMC/WiltLunar",
-          "description": "PacketFixer in HuaYuTing Server"
+          "description": "PacketFixer in HuaYuTing Server",
+          "newWeave": false
         }
       ]
     },
@@ -423,7 +468,8 @@
           "name": "oofmod",
           "repository": "thaYt/oofmod",
           "url": "https://github.com/thaYt/oofmod",
-          "description": "oofmod for weave"
+          "description": "oofmod for weave",
+          "newWeave": false
         }
       ]
     }
