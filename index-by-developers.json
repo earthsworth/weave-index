@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-24T01:46:06.657480",
+  "timestamp": "2025-03-31T01:48:42.970846",
   "developers": [
     {
       "name": "Weave-MC",
@@ -66,13 +66,6 @@
           "newWeave": false
         },
         {
-          "name": "ktlon",
-          "repository": "Tryflle/ktlon",
-          "url": "https://github.com/Tryflle/ktlon",
-          "description": "omg ktlon",
-          "newWeave": false
-        },
-        {
           "name": "InventorySnow",
           "repository": "Tryflle/InventorySnow",
           "url": "https://github.com/Tryflle/InventorySnow",
@@ -80,10 +73,10 @@
           "newWeave": false
         },
         {
-          "name": "kotlin-base",
-          "repository": "Tryflle/kotlin-base",
-          "url": "https://github.com/Tryflle/kotlin-base",
-          "description": null,
+          "name": "ktlon",
+          "repository": "Tryflle/ktlon",
+          "url": "https://github.com/Tryflle/ktlon",
+          "description": "omg ktlon",
           "newWeave": false
         },
         {
@@ -130,17 +123,17 @@
           "newWeave": false
         },
         {
+          "name": "WeaveClientTemplate",
+          "repository": "exejar/WeaveClientTemplate",
+          "url": "https://github.com/exejar/WeaveClientTemplate",
+          "description": "Minecraft Utility Client Template for Weave written in Kotlin",
+          "newWeave": false
+        },
+        {
           "name": "PlayerScreenshot",
           "repository": "exejar/PlayerScreenshot",
           "url": "https://github.com/exejar/PlayerScreenshot",
           "description": "Weave mod that takes screenshots of only your player",
-          "newWeave": false
-        },
-        {
-          "name": "WeaveYouTube",
-          "repository": "exejar/WeaveYouTube",
-          "url": "https://github.com/exejar/WeaveYouTube",
-          "description": "YouTube showcase on Weave and how it can be used to create a simple 2D ESP in Minecraft.",
           "newWeave": false
         },
         {
@@ -151,10 +144,10 @@
           "newWeave": false
         },
         {
-          "name": "WeaveClientTemplate",
-          "repository": "exejar/WeaveClientTemplate",
-          "url": "https://github.com/exejar/WeaveClientTemplate",
-          "description": "Minecraft Utility Client Template for Weave written in Kotlin",
+          "name": "WeaveYouTube",
+          "repository": "exejar/WeaveYouTube",
+          "url": "https://github.com/exejar/WeaveYouTube",
+          "description": "YouTube showcase on Weave and how it can be used to create a simple 2D ESP in Minecraft.",
           "newWeave": false
         },
         {
@@ -189,23 +182,9 @@
           "newWeave": false
         },
         {
-          "name": "ModernPotions",
-          "repository": "ZirctaWeave/ModernPotions",
-          "url": "https://github.com/ZirctaWeave/ModernPotions",
-          "description": null,
-          "newWeave": false
-        },
-        {
           "name": "AntiAntiAgent",
           "repository": "ZirctaWeave/AntiAntiAgent",
           "url": "https://github.com/ZirctaWeave/AntiAntiAgent",
-          "description": null,
-          "newWeave": false
-        },
-        {
-          "name": "stormy",
-          "repository": "ZirctaWeave/stormy",
-          "url": "https://github.com/ZirctaWeave/stormy",
           "description": null,
           "newWeave": false
         }
@@ -248,37 +227,37 @@
       ]
     },
     {
-      "name": "L1shed",
+      "name": "MaciejK2",
       "projects": [
         {
-          "name": "WNC",
-          "repository": "L1shed/WNC",
-          "url": "https://github.com/L1shed/WNC",
-          "description": "Minecraft hacked client for Lunar Client using Weave, written in Kotlin",
+          "name": "BmcGG",
+          "repository": "MaciejK2/BmcGG",
+          "url": "https://github.com/MaciejK2/BmcGG",
+          "description": "AutoGG for BlocksMC.com using Weave!",
           "newWeave": false
         }
       ]
     },
     {
-      "name": "The-Peezoo",
+      "name": "Perrystuff",
       "projects": [
         {
           "name": "AutoWhoFix",
-          "repository": "The-Peezoo/AutoWhoFix",
-          "url": "https://github.com/The-Peezoo/AutoWhoFix",
+          "repository": "Perrystuff/AutoWhoFix",
+          "url": "https://github.com/Perrystuff/AutoWhoFix",
           "description": "AutoWho for the new Bedwars and Duels prelobby name obfuscation.",
           "newWeave": false
         }
       ]
     },
     {
-      "name": "azureskylines",
+      "name": "ballmc",
       "projects": [
         {
-          "name": "Velvet",
-          "repository": "azureskylines/Velvet",
-          "url": "https://github.com/azureskylines/Velvet",
-          "description": "It's something alright.",
+          "name": "barriervisibility",
+          "repository": "ballmc/barriervisibility",
+          "url": "https://github.com/ballmc/barriervisibility",
+          "description": "Weave Minecraft mod that allows you to see invisible barrier blocks.",
           "newWeave": false
         }
       ]
@@ -315,54 +294,6 @@
       ]
     },
     {
-      "name": "Youded-byte",
-      "projects": [
-        {
-          "name": "unrestricted",
-          "repository": "Youded-byte/unrestricted",
-          "url": "https://github.com/Youded-byte/unrestricted",
-          "description": null,
-          "newWeave": false
-        }
-      ]
-    },
-    {
-      "name": "solsahar",
-      "projects": [
-        {
-          "name": "Twitch-Chat-In-Game",
-          "repository": "solsahar/Twitch-Chat-In-Game",
-          "url": "https://github.com/solsahar/Twitch-Chat-In-Game",
-          "description": null,
-          "newWeave": false
-        }
-      ]
-    },
-    {
-      "name": "danielxies",
-      "projects": [
-        {
-          "name": "compass-lunar",
-          "repository": "danielxies/compass-lunar",
-          "url": "https://github.com/danielxies/compass-lunar",
-          "description": "squad / direction hud for lunar client",
-          "newWeave": false
-        }
-      ]
-    },
-    {
-      "name": "NatselCat",
-      "projects": [
-        {
-          "name": "WeavePeacefulMining",
-          "repository": "NatselCat/WeavePeacefulMining",
-          "url": "https://github.com/NatselCat/WeavePeacefulMining",
-          "description": "Weave Loader recreation of Cosmic Client's peaceful mining feature.",
-          "newWeave": false
-        }
-      ]
-    },
-    {
       "name": "imyanice",
       "projects": [
         {
@@ -370,6 +301,13 @@
           "repository": "imyanice/mm-utils",
           "url": "https://github.com/imyanice/mm-utils",
           "description": "A Hypixel Murder Mystery Utilities Weave mod (Lunar Client compatible).",
+          "newWeave": false
+        },
+        {
+          "name": "pit-utils",
+          "repository": "imyanice/pit-utils",
+          "url": "https://github.com/imyanice/pit-utils",
+          "description": "pit utility weave mod",
           "newWeave": false
         }
       ]
@@ -387,25 +325,82 @@
       ]
     },
     {
-      "name": "SleepyFish-YT",
+      "name": "solsahar",
       "projects": [
         {
-          "name": "Smok",
-          "repository": "SleepyFish-YT/Smok",
-          "url": "https://github.com/SleepyFish-YT/Smok",
-          "description": "A good and one of the first Weave ghost clients",
+          "name": "Twitch-Chat-In-Game",
+          "repository": "solsahar/Twitch-Chat-In-Game",
+          "url": "https://github.com/solsahar/Twitch-Chat-In-Game",
+          "description": null,
           "newWeave": false
         }
       ]
     },
     {
-      "name": "Ultramicroscope",
+      "name": "Oery",
       "projects": [
         {
-          "name": "NameHistory",
-          "repository": "Ultramicroscope/NameHistory",
-          "url": "https://github.com/Ultramicroscope/NameHistory",
-          "description": "Adds the /history (or /his) command to query Laby API for a user's Name History",
+          "name": "NoBridgeBobbing-Weave",
+          "repository": "Oery/NoBridgeBobbing-Weave",
+          "url": "https://github.com/Oery/NoBridgeBobbing-Weave",
+          "description": "A Minecraft Weave Mod to disable ViewBobbing when bridging",
+          "newWeave": false
+        },
+        {
+          "name": "NoNightVision",
+          "repository": "Oery/NoNightVision",
+          "url": "https://github.com/Oery/NoNightVision",
+          "description": "A Weave Mod to disable Night Vision",
+          "newWeave": false
+        }
+      ]
+    },
+    {
+      "name": "svxf",
+      "projects": [
+        {
+          "name": "LegitVisuals",
+          "repository": "svxf/LegitVisuals",
+          "url": "https://github.com/svxf/LegitVisuals",
+          "description": null,
+          "newWeave": false
+        },
+        {
+          "name": "HealthIndicator",
+          "repository": "svxf/HealthIndicator",
+          "url": "https://github.com/svxf/HealthIndicator",
+          "description": null,
+          "newWeave": false
+        }
+      ]
+    },
+    {
+      "name": "azureskylines",
+      "projects": [
+        {
+          "name": "Velvet",
+          "repository": "azureskylines/Velvet",
+          "url": "https://github.com/azureskylines/Velvet",
+          "description": "It's something alright.",
+          "newWeave": false
+        }
+      ]
+    },
+    {
+      "name": "PianoPenguin471",
+      "projects": [
+        {
+          "name": "RavenWeaveLite",
+          "repository": "PianoPenguin471/RavenWeaveLite",
+          "url": "https://github.com/PianoPenguin471/RavenWeaveLite",
+          "description": null,
+          "newWeave": false
+        },
+        {
+          "name": "SessionLogin",
+          "repository": "PianoPenguin471/SessionLogin",
+          "url": "https://github.com/PianoPenguin471/SessionLogin",
+          "description": "Lets you login to Minecraft with a session Id. WIP",
           "newWeave": false
         }
       ]
@@ -435,70 +430,37 @@
       ]
     },
     {
-      "name": "PianoPenguin471",
+      "name": "NatselCat",
       "projects": [
         {
-          "name": "RavenWeaveLite",
-          "repository": "PianoPenguin471/RavenWeaveLite",
-          "url": "https://github.com/PianoPenguin471/RavenWeaveLite",
+          "name": "WeavePeacefulMining",
+          "repository": "NatselCat/WeavePeacefulMining",
+          "url": "https://github.com/NatselCat/WeavePeacefulMining",
+          "description": "Weave Loader recreation of Cosmic Client's peaceful mining feature.",
+          "newWeave": false
+        }
+      ]
+    },
+    {
+      "name": "Youded-byte",
+      "projects": [
+        {
+          "name": "unrestricted",
+          "repository": "Youded-byte/unrestricted",
+          "url": "https://github.com/Youded-byte/unrestricted",
           "description": null,
           "newWeave": false
         }
       ]
     },
     {
-      "name": "Oery",
+      "name": "qdfqdfqdfqdf",
       "projects": [
         {
-          "name": "NoNightVision",
-          "repository": "Oery/NoNightVision",
-          "url": "https://github.com/Oery/NoNightVision",
-          "description": "A Weave Mod to disable Night Vision",
-          "newWeave": false
-        },
-        {
-          "name": "super-who",
-          "repository": "Oery/super-who",
-          "url": "https://github.com/Oery/super-who",
-          "description": "A Weave mod that let you list all players in tab and put it into chat.",
-          "newWeave": false
-        },
-        {
-          "name": "NoBridgeBobbing-Weave",
-          "repository": "Oery/NoBridgeBobbing-Weave",
-          "url": "https://github.com/Oery/NoBridgeBobbing-Weave",
-          "description": "A Minecraft Weave Mod to disable ViewBobbing when bridging",
-          "newWeave": false
-        }
-      ]
-    },
-    {
-      "name": "ballmc",
-      "projects": [
-        {
-          "name": "kodak",
-          "repository": "ballmc/kodak",
-          "url": "https://github.com/ballmc/kodak",
-          "description": "Weave Minecraft Camera Mod to view clip out of small spaces in third person view",
-          "newWeave": false
-        },
-        {
-          "name": "barriervisibility",
-          "repository": "ballmc/barriervisibility",
-          "url": "https://github.com/ballmc/barriervisibility",
-          "description": "Weave Minecraft mod that allows you to see invisible barrier blocks.",
-          "newWeave": false
-        }
-      ]
-    },
-    {
-      "name": "svxf",
-      "projects": [
-        {
-          "name": "LegitVisuals",
-          "repository": "svxf/LegitVisuals",
-          "url": "https://github.com/svxf/LegitVisuals",
-          "description": null,
+          "name": "weave-fastplace",
+          "repository": "qdfqdfqdfqdf/weave-fastplace",
+          "url": "https://github.com/qdfqdfqdfqdf/weave-fastplace",
+          "description": "standalone skidded fastplace - use /fastplace to toggle",
           "newWeave": false
         }
       ]

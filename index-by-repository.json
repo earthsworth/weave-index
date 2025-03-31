@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-24T01:46:06.657480",
+  "timestamp": "2025-03-31T01:48:42.970846",
   "mods": [
     {
       "name": "ExampleMod",
@@ -100,10 +100,10 @@
       "newWeave": false
     },
     {
-      "name": "ModernPotions",
-      "repository": "ZirctaWeave/ModernPotions",
-      "url": "https://github.com/ZirctaWeave/ModernPotions",
-      "description": null,
+      "name": "WeaveClientTemplate",
+      "repository": "exejar/WeaveClientTemplate",
+      "url": "https://github.com/exejar/WeaveClientTemplate",
+      "description": "Minecraft Utility Client Template for Weave written in Kotlin",
       "newWeave": false
     },
     {
@@ -114,24 +114,24 @@
       "newWeave": false
     },
     {
-      "name": "WNC",
-      "repository": "L1shed/WNC",
-      "url": "https://github.com/L1shed/WNC",
-      "description": "Minecraft hacked client for Lunar Client using Weave, written in Kotlin",
+      "name": "BmcGG",
+      "repository": "MaciejK2/BmcGG",
+      "url": "https://github.com/MaciejK2/BmcGG",
+      "description": "AutoGG for BlocksMC.com using Weave!",
       "newWeave": false
     },
     {
       "name": "AutoWhoFix",
-      "repository": "The-Peezoo/AutoWhoFix",
-      "url": "https://github.com/The-Peezoo/AutoWhoFix",
+      "repository": "Perrystuff/AutoWhoFix",
+      "url": "https://github.com/Perrystuff/AutoWhoFix",
       "description": "AutoWho for the new Bedwars and Duels prelobby name obfuscation.",
       "newWeave": false
     },
     {
-      "name": "Velvet",
-      "repository": "azureskylines/Velvet",
-      "url": "https://github.com/azureskylines/Velvet",
-      "description": "It's something alright.",
+      "name": "barriervisibility",
+      "repository": "ballmc/barriervisibility",
+      "url": "https://github.com/ballmc/barriervisibility",
+      "description": "Weave Minecraft mod that allows you to see invisible barrier blocks.",
       "newWeave": false
     },
     {
@@ -149,10 +149,17 @@
       "newWeave": false
     },
     {
-      "name": "unrestricted",
-      "repository": "Youded-byte/unrestricted",
-      "url": "https://github.com/Youded-byte/unrestricted",
-      "description": null,
+      "name": "mm-utils",
+      "repository": "imyanice/mm-utils",
+      "url": "https://github.com/imyanice/mm-utils",
+      "description": "A Hypixel Murder Mystery Utilities Weave mod (Lunar Client compatible).",
+      "newWeave": false
+    },
+    {
+      "name": "oofmod",
+      "repository": "thaYt/oofmod",
+      "url": "https://github.com/thaYt/oofmod",
+      "description": "oofmod for weave",
       "newWeave": false
     },
     {
@@ -170,17 +177,10 @@
       "newWeave": false
     },
     {
-      "name": "compass-lunar",
-      "repository": "danielxies/compass-lunar",
-      "url": "https://github.com/danielxies/compass-lunar",
-      "description": "squad / direction hud for lunar client",
-      "newWeave": false
-    },
-    {
-      "name": "WeavePeacefulMining",
-      "repository": "NatselCat/WeavePeacefulMining",
-      "url": "https://github.com/NatselCat/WeavePeacefulMining",
-      "description": "Weave Loader recreation of Cosmic Client's peaceful mining feature.",
+      "name": "NoBridgeBobbing-Weave",
+      "repository": "Oery/NoBridgeBobbing-Weave",
+      "url": "https://github.com/Oery/NoBridgeBobbing-Weave",
+      "description": "A Minecraft Weave Mod to disable ViewBobbing when bridging",
       "newWeave": false
     },
     {
@@ -191,34 +191,6 @@
       "newWeave": false
     },
     {
-      "name": "mm-utils",
-      "repository": "imyanice/mm-utils",
-      "url": "https://github.com/imyanice/mm-utils",
-      "description": "A Hypixel Murder Mystery Utilities Weave mod (Lunar Client compatible).",
-      "newWeave": false
-    },
-    {
-      "name": "WeaveYouTube",
-      "repository": "exejar/WeaveYouTube",
-      "url": "https://github.com/exejar/WeaveYouTube",
-      "description": "YouTube showcase on Weave and how it can be used to create a simple 2D ESP in Minecraft.",
-      "newWeave": false
-    },
-    {
-      "name": "oofmod",
-      "repository": "thaYt/oofmod",
-      "url": "https://github.com/thaYt/oofmod",
-      "description": "oofmod for weave",
-      "newWeave": false
-    },
-    {
-      "name": "Smok",
-      "repository": "SleepyFish-YT/Smok",
-      "url": "https://github.com/SleepyFish-YT/Smok",
-      "description": "A good and one of the first Weave ghost clients",
-      "newWeave": false
-    },
-    {
       "name": "Kolour",
       "repository": "exejar/Kolour",
       "url": "https://github.com/exejar/Kolour",
@@ -226,23 +198,23 @@
       "newWeave": false
     },
     {
-      "name": "ktlon",
-      "repository": "Tryflle/ktlon",
-      "url": "https://github.com/Tryflle/ktlon",
-      "description": "omg ktlon",
+      "name": "LegitVisuals",
+      "repository": "svxf/LegitVisuals",
+      "url": "https://github.com/svxf/LegitVisuals",
+      "description": null,
       "newWeave": false
     },
     {
-      "name": "NameHistory",
-      "repository": "Ultramicroscope/NameHistory",
-      "url": "https://github.com/Ultramicroscope/NameHistory",
-      "description": "Adds the /history (or /his) command to query Laby API for a user's Name History",
+      "name": "LilysQoLMod",
+      "repository": "1lylily/LilysQoLMod",
+      "url": "https://github.com/1lylily/LilysQoLMod",
+      "description": "\"Quality of Life\" Weave Loader mod.",
       "newWeave": false
     },
     {
-      "name": "AntiAntiAgent",
-      "repository": "ZirctaWeave/AntiAntiAgent",
-      "url": "https://github.com/ZirctaWeave/AntiAntiAgent",
+      "name": "HealthIndicator",
+      "repository": "svxf/HealthIndicator",
+      "url": "https://github.com/svxf/HealthIndicator",
       "description": null,
       "newWeave": false
     },
@@ -251,6 +223,34 @@
       "repository": "Tryflle/InventorySnow",
       "url": "https://github.com/Tryflle/InventorySnow",
       "description": "InventorySnow",
+      "newWeave": false
+    },
+    {
+      "name": "Velvet",
+      "repository": "azureskylines/Velvet",
+      "url": "https://github.com/azureskylines/Velvet",
+      "description": "It's something alright.",
+      "newWeave": false
+    },
+    {
+      "name": "RavenWeaveLite",
+      "repository": "PianoPenguin471/RavenWeaveLite",
+      "url": "https://github.com/PianoPenguin471/RavenWeaveLite",
+      "description": null,
+      "newWeave": false
+    },
+    {
+      "name": "pit-utils",
+      "repository": "imyanice/pit-utils",
+      "url": "https://github.com/imyanice/pit-utils",
+      "description": "pit utility weave mod",
+      "newWeave": false
+    },
+    {
+      "name": "SessionLogin",
+      "repository": "PianoPenguin471/SessionLogin",
+      "url": "https://github.com/PianoPenguin471/SessionLogin",
+      "description": "Lets you login to Minecraft with a session Id. WIP",
       "newWeave": false
     },
     {
@@ -268,13 +268,6 @@
       "newWeave": false
     },
     {
-      "name": "RavenWeaveLite",
-      "repository": "PianoPenguin471/RavenWeaveLite",
-      "url": "https://github.com/PianoPenguin471/RavenWeaveLite",
-      "description": null,
-      "newWeave": false
-    },
-    {
       "name": "NoNightVision",
       "repository": "Oery/NoNightVision",
       "url": "https://github.com/Oery/NoNightVision",
@@ -282,24 +275,38 @@
       "newWeave": false
     },
     {
-      "name": "kotlin-base",
-      "repository": "Tryflle/kotlin-base",
-      "url": "https://github.com/Tryflle/kotlin-base",
+      "name": "AntiAntiAgent",
+      "repository": "ZirctaWeave/AntiAntiAgent",
+      "url": "https://github.com/ZirctaWeave/AntiAntiAgent",
       "description": null,
       "newWeave": false
     },
     {
-      "name": "kodak",
-      "repository": "ballmc/kodak",
-      "url": "https://github.com/ballmc/kodak",
-      "description": "Weave Minecraft Camera Mod to view clip out of small spaces in third person view",
+      "name": "WeavePeacefulMining",
+      "repository": "NatselCat/WeavePeacefulMining",
+      "url": "https://github.com/NatselCat/WeavePeacefulMining",
+      "description": "Weave Loader recreation of Cosmic Client's peaceful mining feature.",
       "newWeave": false
     },
     {
-      "name": "stormy",
-      "repository": "ZirctaWeave/stormy",
-      "url": "https://github.com/ZirctaWeave/stormy",
+      "name": "ktlon",
+      "repository": "Tryflle/ktlon",
+      "url": "https://github.com/Tryflle/ktlon",
+      "description": "omg ktlon",
+      "newWeave": false
+    },
+    {
+      "name": "unrestricted",
+      "repository": "Youded-byte/unrestricted",
+      "url": "https://github.com/Youded-byte/unrestricted",
       "description": null,
+      "newWeave": false
+    },
+    {
+      "name": "WeaveYouTube",
+      "repository": "exejar/WeaveYouTube",
+      "url": "https://github.com/exejar/WeaveYouTube",
+      "description": "YouTube showcase on Weave and how it can be used to create a simple 2D ESP in Minecraft.",
       "newWeave": false
     },
     {
@@ -310,20 +317,6 @@
       "newWeave": false
     },
     {
-      "name": "WeaveClientTemplate",
-      "repository": "exejar/WeaveClientTemplate",
-      "url": "https://github.com/exejar/WeaveClientTemplate",
-      "description": "Minecraft Utility Client Template for Weave written in Kotlin",
-      "newWeave": false
-    },
-    {
-      "name": "super-who",
-      "repository": "Oery/super-who",
-      "url": "https://github.com/Oery/super-who",
-      "description": "A Weave mod that let you list all players in tab and put it into chat.",
-      "newWeave": false
-    },
-    {
       "name": "Weave",
       "repository": "exejar/Weave",
       "url": "https://github.com/exejar/Weave",
@@ -331,31 +324,10 @@
       "newWeave": false
     },
     {
-      "name": "barriervisibility",
-      "repository": "ballmc/barriervisibility",
-      "url": "https://github.com/ballmc/barriervisibility",
-      "description": "Weave Minecraft mod that allows you to see invisible barrier blocks.",
-      "newWeave": false
-    },
-    {
-      "name": "LilysQoLMod",
-      "repository": "1lylily/LilysQoLMod",
-      "url": "https://github.com/1lylily/LilysQoLMod",
-      "description": "\"Quality of Life\" Weave Loader mod.",
-      "newWeave": false
-    },
-    {
-      "name": "LegitVisuals",
-      "repository": "svxf/LegitVisuals",
-      "url": "https://github.com/svxf/LegitVisuals",
-      "description": null,
-      "newWeave": false
-    },
-    {
-      "name": "NoBridgeBobbing-Weave",
-      "repository": "Oery/NoBridgeBobbing-Weave",
-      "url": "https://github.com/Oery/NoBridgeBobbing-Weave",
-      "description": "A Minecraft Weave Mod to disable ViewBobbing when bridging",
+      "name": "weave-fastplace",
+      "repository": "qdfqdfqdfqdf/weave-fastplace",
+      "url": "https://github.com/qdfqdfqdfqdf/weave-fastplace",
+      "description": "standalone skidded fastplace - use /fastplace to toggle",
       "newWeave": false
     }
   ]
