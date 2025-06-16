@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-09T01:59:28.654498",
+  "timestamp": "2025-06-16T01:58:14.890984",
   "mods": [
     {
       "name": "ExampleMod",
@@ -72,10 +72,10 @@
       "newWeave": false
     },
     {
-      "name": "Crow",
-      "repository": "ZirctaWeave/Crow",
-      "url": "https://github.com/ZirctaWeave/Crow",
-      "description": null,
+      "name": "SessionLogin",
+      "repository": "PianoPenguin471/SessionLogin",
+      "url": "https://github.com/PianoPenguin471/SessionLogin",
+      "description": "Lets you login to Minecraft with a session Id. WIP",
       "newWeave": false
     },
     {
@@ -86,58 +86,30 @@
       "newWeave": false
     },
     {
-      "name": "Weave-mod-menu",
-      "repository": "betterclient/Weave-mod-menu",
-      "url": "https://github.com/betterclient/Weave-mod-menu",
-      "description": "Mod menu for weave",
+      "name": "Smok",
+      "repository": "SleepyFish-YT/Smok",
+      "url": "https://github.com/SleepyFish-YT/Smok",
+      "description": "A good and one of the first Weave ghost clients",
       "newWeave": false
     },
     {
-      "name": "weave-optifine-url",
-      "repository": "770grappenmaker/weave-optifine-url",
-      "url": "https://github.com/770grappenmaker/weave-optifine-url",
-      "description": "Allows you to specify a new URL for the Optifine cape server",
+      "name": "WeaveQuickReport",
+      "repository": "Tryflle/WeaveQuickReport",
+      "url": "https://github.com/Tryflle/WeaveQuickReport",
+      "description": "QuickReport (https://github.com/varun7654/QuickReport/) rewritten for weave. Also comes with autododge.",
       "newWeave": false
     },
     {
-      "name": "ToggleChat",
-      "repository": "ZirctaWeave/ToggleChat",
-      "url": "https://github.com/ZirctaWeave/ToggleChat",
+      "name": "NoItemRelease",
+      "repository": "ZirctaWeave/NoItemRelease",
+      "url": "https://github.com/ZirctaWeave/NoItemRelease",
       "description": null,
-      "newWeave": false
-    },
-    {
-      "name": "mm-utils",
-      "repository": "imyanice/mm-utils",
-      "url": "https://github.com/imyanice/mm-utils",
-      "description": "A Hypixel Murder Mystery Utilities Weave mod (Lunar Client compatible).",
-      "newWeave": false
-    },
-    {
-      "name": "NameHistory",
-      "repository": "Ultramicroscope/NameHistory",
-      "url": "https://github.com/Ultramicroscope/NameHistory",
-      "description": "Adds the /history (or /his) command to query Laby API for a user's Name History",
       "newWeave": false
     },
     {
       "name": "LegitVisuals",
       "repository": "svxf/LegitVisuals",
       "url": "https://github.com/svxf/LegitVisuals",
-      "description": null,
-      "newWeave": false
-    },
-    {
-      "name": "super-who",
-      "repository": "Oery/super-who",
-      "url": "https://github.com/Oery/super-who",
-      "description": "A Weave mod that let you list all players in tab and put it into chat.",
-      "newWeave": false
-    },
-    {
-      "name": "unrestricted",
-      "repository": "Youded-byte/unrestricted",
-      "url": "https://github.com/Youded-byte/unrestricted",
       "description": null,
       "newWeave": false
     },
@@ -149,34 +121,6 @@
       "newWeave": false
     },
     {
-      "name": "WeaveQuickReport",
-      "repository": "Tryflle/WeaveQuickReport",
-      "url": "https://github.com/Tryflle/WeaveQuickReport",
-      "description": "QuickReport (https://github.com/varun7654/QuickReport/) rewritten for weave. Also comes with autododge.",
-      "newWeave": false
-    },
-    {
-      "name": "NoNightVision",
-      "repository": "Oery/NoNightVision",
-      "url": "https://github.com/Oery/NoNightVision",
-      "description": "A Weave Mod to disable Night Vision",
-      "newWeave": false
-    },
-    {
-      "name": "NoItemRelease",
-      "repository": "ZirctaWeave/NoItemRelease",
-      "url": "https://github.com/ZirctaWeave/NoItemRelease",
-      "description": null,
-      "newWeave": false
-    },
-    {
-      "name": "BmcGG",
-      "repository": "MaciejK2/BmcGG",
-      "url": "https://github.com/MaciejK2/BmcGG",
-      "description": "AutoGG for BlocksMC.com using Weave!",
-      "newWeave": false
-    },
-    {
       "name": "ModernPotions",
       "repository": "ZirctaWeave/ModernPotions",
       "url": "https://github.com/ZirctaWeave/ModernPotions",
@@ -184,87 +128,24 @@
       "newWeave": false
     },
     {
-      "name": "weave-fastplace",
-      "repository": "qdfqdfqdfqdf/weave-fastplace",
-      "url": "https://github.com/qdfqdfqdfqdf/weave-fastplace",
-      "description": "standalone skidded fastplace - use /fastplace to toggle",
+      "name": "super-who",
+      "repository": "Oery/super-who",
+      "url": "https://github.com/Oery/super-who",
+      "description": "A Weave mod that let you list all players in tab and put it into chat.",
       "newWeave": false
     },
     {
-      "name": "CPSCap",
-      "repository": "Tryflle/CPSCap",
-      "url": "https://github.com/Tryflle/CPSCap",
-      "description": "A mod that caps your CPS.",
+      "name": "WeaveClientTemplate",
+      "repository": "exejar/WeaveClientTemplate",
+      "url": "https://github.com/exejar/WeaveClientTemplate",
+      "description": "Minecraft Utility Client Template for Weave written in Kotlin",
       "newWeave": false
     },
     {
-      "name": "WeavePeacefulMining",
-      "repository": "NatselCat/WeavePeacefulMining",
-      "url": "https://github.com/NatselCat/WeavePeacefulMining",
-      "description": "Weave Loader recreation of Cosmic Client's peaceful mining feature.",
-      "newWeave": false
-    },
-    {
-      "name": "kodak",
-      "repository": "ballmc/kodak",
-      "url": "https://github.com/ballmc/kodak",
-      "description": "Weave Minecraft Camera Mod to view clip out of small spaces in third person view",
-      "newWeave": false
-    },
-    {
-      "name": "BaseClient",
-      "repository": "emirsassan/BaseClient",
-      "url": "https://github.com/emirsassan/BaseClient",
-      "description": "Updated base client for weave",
-      "newWeave": false
-    },
-    {
-      "name": "pit-utils",
-      "repository": "imyanice/pit-utils",
-      "url": "https://github.com/imyanice/pit-utils",
-      "description": "pit utility weave mod",
-      "newWeave": false
-    },
-    {
-      "name": "WeaveCrack",
-      "repository": "mallusrgreatv2/WeaveCrack",
-      "url": "https://github.com/mallusrgreatv2/WeaveCrack",
+      "name": "ProjectileTrails",
+      "repository": "ZirctaWeave/ProjectileTrails",
+      "url": "https://github.com/ZirctaWeave/ProjectileTrails",
       "description": null,
-      "newWeave": false
-    },
-    {
-      "name": "SessionLogin",
-      "repository": "PianoPenguin471/SessionLogin",
-      "url": "https://github.com/PianoPenguin471/SessionLogin",
-      "description": "Lets you login to Minecraft with a session Id. WIP",
-      "newWeave": false
-    },
-    {
-      "name": "PitUtilsLunar",
-      "repository": "supercoolspy/PitUtilsLunar",
-      "url": "https://github.com/supercoolspy/PitUtilsLunar",
-      "description": null,
-      "newWeave": false
-    },
-    {
-      "name": "AutoWhoFix",
-      "repository": "Perrystuff/AutoWhoFix",
-      "url": "https://github.com/Perrystuff/AutoWhoFix",
-      "description": "AutoWho for the new Bedwars and Duels prelobby name obfuscation.",
-      "newWeave": false
-    },
-    {
-      "name": "Weave-Loader",
-      "repository": "Weave-MC/Weave-Loader",
-      "url": "https://github.com/Weave-MC/Weave-Loader",
-      "description": "Universal Minecraft Client Mod-Loader, written in Kotlin",
-      "newWeave": true
-    },
-    {
-      "name": "Compass",
-      "repository": "JavaSkid/Compass",
-      "url": "https://github.com/JavaSkid/Compass",
-      "description": "Idk",
       "newWeave": false
     },
     {
@@ -275,13 +156,6 @@
       "newWeave": false
     },
     {
-      "name": "InventorySnow",
-      "repository": "Tryflle/InventorySnow",
-      "url": "https://github.com/Tryflle/InventorySnow",
-      "description": "InventorySnow",
-      "newWeave": false
-    },
-    {
       "name": "Velvet",
       "repository": "azureskylines/Velvet",
       "url": "https://github.com/azureskylines/Velvet",
@@ -289,10 +163,108 @@
       "newWeave": false
     },
     {
-      "name": "AlwaysSwing",
-      "repository": "ZirctaWeave/AlwaysSwing",
-      "url": "https://github.com/ZirctaWeave/AlwaysSwing",
+      "name": "WeaveYouTube",
+      "repository": "exejar/WeaveYouTube",
+      "url": "https://github.com/exejar/WeaveYouTube",
+      "description": "YouTube showcase on Weave and how it can be used to create a simple 2D ESP in Minecraft.",
+      "newWeave": false
+    },
+    {
+      "name": "CPSCap",
+      "repository": "Tryflle/CPSCap",
+      "url": "https://github.com/Tryflle/CPSCap",
+      "description": "A mod that caps your CPS.",
+      "newWeave": false
+    },
+    {
+      "name": "ToggleChat",
+      "repository": "ZirctaWeave/ToggleChat",
+      "url": "https://github.com/ZirctaWeave/ToggleChat",
       "description": null,
+      "newWeave": false
+    },
+    {
+      "name": "ktlon",
+      "repository": "Tryflle/ktlon",
+      "url": "https://github.com/Tryflle/ktlon",
+      "description": "omg ktlon",
+      "newWeave": false
+    },
+    {
+      "name": "pit-utils",
+      "repository": "imyanice/pit-utils",
+      "url": "https://github.com/imyanice/pit-utils",
+      "description": "pit utility weave mod",
+      "newWeave": false
+    },
+    {
+      "name": "weave-fastplace",
+      "repository": "qdfqdfqdfqdf/weave-fastplace",
+      "url": "https://github.com/qdfqdfqdfqdf/weave-fastplace",
+      "description": "standalone skidded fastplace - use /fastplace to toggle",
+      "newWeave": false
+    },
+    {
+      "name": "weave-optifine-url",
+      "repository": "770grappenmaker/weave-optifine-url",
+      "url": "https://github.com/770grappenmaker/weave-optifine-url",
+      "description": "Allows you to specify a new URL for the Optifine cape server",
+      "newWeave": false
+    },
+    {
+      "name": "DeathEffects",
+      "repository": "ZirctaWeave/DeathEffects",
+      "url": "https://github.com/ZirctaWeave/DeathEffects",
+      "description": null,
+      "newWeave": false
+    },
+    {
+      "name": "PitUtilsLunar",
+      "repository": "supercoolspy/PitUtilsLunar",
+      "url": "https://github.com/supercoolspy/PitUtilsLunar",
+      "description": null,
+      "newWeave": false
+    },
+    {
+      "name": "unrestricted",
+      "repository": "Youded-byte/unrestricted",
+      "url": "https://github.com/Youded-byte/unrestricted",
+      "description": null,
+      "newWeave": false
+    },
+    {
+      "name": "coc-banana",
+      "repository": "1lylily/coc-banana",
+      "url": "https://github.com/1lylily/coc-banana",
+      "description": null,
+      "newWeave": false
+    },
+    {
+      "name": "pit-quick-maths",
+      "repository": "imyanice/pit-quick-maths",
+      "url": "https://github.com/imyanice/pit-quick-maths",
+      "description": "Automatically answers Pit's quick maths questions under 1-3s",
+      "newWeave": false
+    },
+    {
+      "name": "NameHistory",
+      "repository": "Ultramicroscope/NameHistory",
+      "url": "https://github.com/Ultramicroscope/NameHistory",
+      "description": "Adds the /history (or /his) command to query Laby API for a user's Name History",
+      "newWeave": false
+    },
+    {
+      "name": "Weave-Loader",
+      "repository": "Weave-MC/Weave-Loader",
+      "url": "https://github.com/Weave-MC/Weave-Loader",
+      "description": "Universal Minecraft Client Mod-Loader, written in Kotlin",
+      "newWeave": true
+    },
+    {
+      "name": "BaseClient",
+      "repository": "emirsassan/BaseClient",
+      "url": "https://github.com/emirsassan/BaseClient",
+      "description": "Updated base client for weave",
       "newWeave": false
     },
     {
@@ -310,6 +282,27 @@
       "newWeave": false
     },
     {
+      "name": "Crow",
+      "repository": "ZirctaWeave/Crow",
+      "url": "https://github.com/ZirctaWeave/Crow",
+      "description": null,
+      "newWeave": false
+    },
+    {
+      "name": "weavebasicflight",
+      "repository": "Tryflle/weavebasicflight",
+      "url": "https://github.com/Tryflle/weavebasicflight",
+      "description": "A vanilla flight mod for weave",
+      "newWeave": false
+    },
+    {
+      "name": "Compass",
+      "repository": "JavaSkid/Compass",
+      "url": "https://github.com/JavaSkid/Compass",
+      "description": "Idk",
+      "newWeave": false
+    },
+    {
       "name": "oofmod",
       "repository": "thaYt/oofmod",
       "url": "https://github.com/thaYt/oofmod",
@@ -317,10 +310,45 @@
       "newWeave": false
     },
     {
-      "name": "coc-banana",
-      "repository": "1lylily/coc-banana",
-      "url": "https://github.com/1lylily/coc-banana",
+      "name": "InventorySnow",
+      "repository": "Tryflle/InventorySnow",
+      "url": "https://github.com/Tryflle/InventorySnow",
+      "description": "InventorySnow",
+      "newWeave": false
+    },
+    {
+      "name": "barriervisibility",
+      "repository": "ballmc/barriervisibility",
+      "url": "https://github.com/ballmc/barriervisibility",
+      "description": "Weave Minecraft mod that allows you to see invisible barrier blocks.",
+      "newWeave": false
+    },
+    {
+      "name": "LilysQoLMod",
+      "repository": "1lylily/LilysQoLMod",
+      "url": "https://github.com/1lylily/LilysQoLMod",
+      "description": "\"Quality of Life\" Weave Loader mod.",
+      "newWeave": false
+    },
+    {
+      "name": "stormy",
+      "repository": "ZirctaWeave/stormy",
+      "url": "https://github.com/ZirctaWeave/stormy",
       "description": null,
+      "newWeave": false
+    },
+    {
+      "name": "BmcGG",
+      "repository": "MaciejK2/BmcGG",
+      "url": "https://github.com/MaciejK2/BmcGG",
+      "description": "AutoGG for BlocksMC.com using Weave!",
+      "newWeave": false
+    },
+    {
+      "name": "NoBridgeBobbing-Weave",
+      "repository": "Oery/NoBridgeBobbing-Weave",
+      "url": "https://github.com/Oery/NoBridgeBobbing-Weave",
+      "description": "A Minecraft Weave Mod to disable ViewBobbing when bridging",
       "newWeave": false
     },
     {
@@ -331,38 +359,17 @@
       "newWeave": false
     },
     {
-      "name": "ProjectileTrails",
-      "repository": "ZirctaWeave/ProjectileTrails",
-      "url": "https://github.com/ZirctaWeave/ProjectileTrails",
+      "name": "AlwaysSwing",
+      "repository": "ZirctaWeave/AlwaysSwing",
+      "url": "https://github.com/ZirctaWeave/AlwaysSwing",
       "description": null,
       "newWeave": false
     },
     {
-      "name": "WNC",
-      "repository": "L1shed/WNC",
-      "url": "https://github.com/L1shed/WNC",
-      "description": "Minecraft hacked client for Lunar Client using Weave, written in Kotlin",
-      "newWeave": false
-    },
-    {
-      "name": "pit-quick-maths",
-      "repository": "imyanice/pit-quick-maths",
-      "url": "https://github.com/imyanice/pit-quick-maths",
-      "description": "Automatically answers Pit's quick maths questions under 1-3s",
-      "newWeave": false
-    },
-    {
-      "name": "HealthIndicator",
-      "repository": "svxf/HealthIndicator",
-      "url": "https://github.com/svxf/HealthIndicator",
-      "description": null,
-      "newWeave": false
-    },
-    {
-      "name": "LilysQoLMod",
-      "repository": "1lylily/LilysQoLMod",
-      "url": "https://github.com/1lylily/LilysQoLMod",
-      "description": "\"Quality of Life\" Weave Loader mod.",
+      "name": "WeavePeacefulMining",
+      "repository": "NatselCat/WeavePeacefulMining",
+      "url": "https://github.com/NatselCat/WeavePeacefulMining",
+      "description": "Weave Loader recreation of Cosmic Client's peaceful mining feature.",
       "newWeave": false
     }
   ]
