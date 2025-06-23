@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-16T01:58:14.890984",
+  "timestamp": "2025-06-23T02:02:01.275615",
   "mods": [
     {
       "name": "ExampleMod",
@@ -48,6 +48,13 @@
       "repository": "Tryflle/WeaveToggleSprint",
       "url": "https://github.com/Tryflle/WeaveToggleSprint",
       "description": null,
+      "newWeave": true
+    },
+    {
+      "name": "meusmodsweave",
+      "repository": "gabrioel011/meusmodsweave",
+      "url": "https://github.com/gabrioel011/meusmodsweave",
+      "description": "by vaapey",
       "newWeave": true
     },
     {

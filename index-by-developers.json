@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-16T01:58:14.890984",
+  "timestamp": "2025-06-23T02:02:01.275615",
   "developers": [
     {
       "name": "Weave-MC",
@@ -115,6 +115,18 @@
           "repository": "douzooo/NovaX_Dev",
           "url": "https://github.com/douzooo/NovaX_Dev",
           "description": null,
+          "newWeave": true
+        }
+      ]
+    },
+    {
+      "name": "gabrioel011",
+      "projects": [
+        {
+          "name": "meusmodsweave",
+          "repository": "gabrioel011/meusmodsweave",
+          "url": "https://github.com/gabrioel011/meusmodsweave",
+          "description": "by vaapey",
           "newWeave": true
         }
       ]
