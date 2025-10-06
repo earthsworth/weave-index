@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-29T01:45:44.117800",
+  "timestamp": "2025-10-06T01:44:00.511784",
   "mods": [
     {
       "name": "ExampleMod",
@@ -142,10 +142,10 @@
       "newWeave": false
     },
     {
-      "name": "super-who",
-      "repository": "Oery/super-who",
-      "url": "https://github.com/Oery/super-who",
-      "description": "A Weave mod that let you list all players in tab and put it into chat.",
+      "name": "HealthIndicator",
+      "repository": "svxf/HealthIndicator",
+      "url": "https://github.com/svxf/HealthIndicator",
+      "description": null,
       "newWeave": false
     },
     {
@@ -156,80 +156,10 @@
       "newWeave": false
     },
     {
-      "name": "Stormy",
-      "repository": "cranci1/Stormy",
-      "url": "https://github.com/cranci1/Stormy",
-      "description": "A weave utility client",
-      "newWeave": false
-    },
-    {
-      "name": "WeaveShortcuts",
-      "repository": "Tryflle/WeaveShortcuts",
-      "url": "https://github.com/Tryflle/WeaveShortcuts",
-      "description": "Make command shortcuts",
-      "newWeave": false
-    },
-    {
-      "name": "HealthIndicator",
-      "repository": "svxf/HealthIndicator",
-      "url": "https://github.com/svxf/HealthIndicator",
+      "name": "NoItemRelease",
+      "repository": "ZirctaWeave/NoItemRelease",
+      "url": "https://github.com/ZirctaWeave/NoItemRelease",
       "description": null,
-      "newWeave": false
-    },
-    {
-      "name": "mm-utils-cn",
-      "repository": "TianmuTNT/mm-utils-cn",
-      "url": "https://github.com/TianmuTNT/mm-utils-cn",
-      "description": "[Hypixel Murder Mystery \u5bc6\u5ba4\u6740\u624b] mm-utils\u7684\u6c49\u5316\u7248\uff0c\u4fee\u590d\u4e86\u539f\u7248\u7684\u4e00\u4e9b\u95ee\u9898",
-      "newWeave": false
-    },
-    {
-      "name": "pit-utils",
-      "repository": "imyanice/pit-utils",
-      "url": "https://github.com/imyanice/pit-utils",
-      "description": "pit utility weave mod",
-      "newWeave": false
-    },
-    {
-      "name": "weave-fastplace",
-      "repository": "qdfqdfqdfqdf/weave-fastplace",
-      "url": "https://github.com/qdfqdfqdfqdf/weave-fastplace",
-      "description": "standalone skidded fastplace - use /fastplace to toggle",
-      "newWeave": false
-    },
-    {
-      "name": "BaseClient",
-      "repository": "emirsassan/BaseClient",
-      "url": "https://github.com/emirsassan/BaseClient",
-      "description": "Updated base client for weave",
-      "newWeave": false
-    },
-    {
-      "name": "WeaveQuickReport",
-      "repository": "Tryflle/WeaveQuickReport",
-      "url": "https://github.com/Tryflle/WeaveQuickReport",
-      "description": "QuickReport (https://github.com/varun7654/QuickReport/) rewritten for weave. Also comes with autododge.",
-      "newWeave": false
-    },
-    {
-      "name": "WeaveYouTube",
-      "repository": "exejar/WeaveYouTube",
-      "url": "https://github.com/exejar/WeaveYouTube",
-      "description": "YouTube showcase on Weave and how it can be used to create a simple 2D ESP in Minecraft.",
-      "newWeave": false
-    },
-    {
-      "name": "WeaveSlowMining",
-      "repository": "Tryflle/WeaveSlowMining",
-      "url": "https://github.com/Tryflle/WeaveSlowMining",
-      "description": "A mod that slows down your swing/mining animation that can be configurated.",
-      "newWeave": false
-    },
-    {
-      "name": "Kolour",
-      "repository": "exejar/Kolour",
-      "url": "https://github.com/exejar/Kolour",
-      "description": "Simple, Powerful, and Performant GUI Library for Minecraft",
       "newWeave": false
     },
     {
@@ -240,17 +170,87 @@
       "newWeave": false
     },
     {
-      "name": "PlayerScreenshot",
-      "repository": "exejar/PlayerScreenshot",
-      "url": "https://github.com/exejar/PlayerScreenshot",
-      "description": "Weave mod that takes screenshots of only your player",
+      "name": "Weave",
+      "repository": "exejar/Weave",
+      "url": "https://github.com/exejar/Weave",
+      "description": "Weave API",
       "newWeave": false
     },
     {
-      "name": "Crow",
-      "repository": "ZirctaWeave/Crow",
-      "url": "https://github.com/ZirctaWeave/Crow",
+      "name": "mm-utils-cn",
+      "repository": "TianmuTNT/mm-utils-cn",
+      "url": "https://github.com/TianmuTNT/mm-utils-cn",
+      "description": "[Hypixel Murder Mystery \u5bc6\u5ba4\u6740\u624b] mm-utils\u7684\u6c49\u5316\u7248\uff0c\u4fee\u590d\u4e86\u539f\u7248\u7684\u4e00\u4e9b\u95ee\u9898",
+      "newWeave": false
+    },
+    {
+      "name": "the-gomod-thing",
+      "repository": "Napim/the-gomod-thing",
+      "url": "https://github.com/Napim/the-gomod-thing",
       "description": null,
+      "newWeave": false
+    },
+    {
+      "name": "WeaveShortcuts",
+      "repository": "Tryflle/WeaveShortcuts",
+      "url": "https://github.com/Tryflle/WeaveShortcuts",
+      "description": "Make command shortcuts",
+      "newWeave": false
+    },
+    {
+      "name": "ProjectileTrails",
+      "repository": "ZirctaWeave/ProjectileTrails",
+      "url": "https://github.com/ZirctaWeave/ProjectileTrails",
+      "description": null,
+      "newWeave": false
+    },
+    {
+      "name": "Smok",
+      "repository": "SleepyFish-YT/Smok",
+      "url": "https://github.com/SleepyFish-YT/Smok",
+      "description": "A good and one of the first Weave ghost clients",
+      "newWeave": false
+    },
+    {
+      "name": "barriervisibility",
+      "repository": "ballmc/barriervisibility",
+      "url": "https://github.com/ballmc/barriervisibility",
+      "description": "Weave Minecraft mod that allows you to see invisible barrier blocks.",
+      "newWeave": false
+    },
+    {
+      "name": "PitUtilsLunar",
+      "repository": "supercoolspy/PitUtilsLunar",
+      "url": "https://github.com/supercoolspy/PitUtilsLunar",
+      "description": null,
+      "newWeave": false
+    },
+    {
+      "name": "AntiAntiAgent",
+      "repository": "ZirctaWeave/AntiAntiAgent",
+      "url": "https://github.com/ZirctaWeave/AntiAntiAgent",
+      "description": null,
+      "newWeave": false
+    },
+    {
+      "name": "coc-banana",
+      "repository": "1lylily/coc-banana",
+      "url": "https://github.com/1lylily/coc-banana",
+      "description": null,
+      "newWeave": false
+    },
+    {
+      "name": "WeavePeacefulMining",
+      "repository": "NatselCat/WeavePeacefulMining",
+      "url": "https://github.com/NatselCat/WeavePeacefulMining",
+      "description": "Weave Loader recreation of Cosmic Client's peaceful mining feature.",
+      "newWeave": false
+    },
+    {
+      "name": "kodak",
+      "repository": "ballmc/kodak",
+      "url": "https://github.com/ballmc/kodak",
+      "description": "Weave Minecraft Camera Mod to view clip out of small spaces in third person view",
       "newWeave": false
     },
     {
@@ -268,17 +268,17 @@
       "newWeave": false
     },
     {
-      "name": "NoItemRelease",
-      "repository": "ZirctaWeave/NoItemRelease",
-      "url": "https://github.com/ZirctaWeave/NoItemRelease",
-      "description": null,
-      "newWeave": false
-    },
-    {
       "name": "unrestricted",
       "repository": "Youded-byte/unrestricted",
       "url": "https://github.com/Youded-byte/unrestricted",
       "description": null,
+      "newWeave": false
+    },
+    {
+      "name": "WeaveQuickReport",
+      "repository": "Tryflle/WeaveQuickReport",
+      "url": "https://github.com/Tryflle/WeaveQuickReport",
+      "description": "QuickReport (https://github.com/varun7654/QuickReport/) rewritten for weave. Also comes with autododge.",
       "newWeave": false
     },
     {
@@ -289,13 +289,6 @@
       "newWeave": false
     },
     {
-      "name": "stormy",
-      "repository": "ZirctaWeave/stormy",
-      "url": "https://github.com/ZirctaWeave/stormy",
-      "description": null,
-      "newWeave": false
-    },
-    {
       "name": "WiltLunar",
       "repository": "MolokyMC/WiltLunar",
       "url": "https://github.com/MolokyMC/WiltLunar",
@@ -303,17 +296,31 @@
       "newWeave": false
     },
     {
-      "name": "coc-banana",
-      "repository": "1lylily/coc-banana",
-      "url": "https://github.com/1lylily/coc-banana",
+      "name": "super-who",
+      "repository": "Oery/super-who",
+      "url": "https://github.com/Oery/super-who",
+      "description": "A Weave mod that let you list all players in tab and put it into chat.",
+      "newWeave": false
+    },
+    {
+      "name": "ktlon",
+      "repository": "Tryflle/ktlon",
+      "url": "https://github.com/Tryflle/ktlon",
+      "description": "omg ktlon",
+      "newWeave": false
+    },
+    {
+      "name": "stormy",
+      "repository": "ZirctaWeave/stormy",
+      "url": "https://github.com/ZirctaWeave/stormy",
       "description": null,
       "newWeave": false
     },
     {
-      "name": "LilysQoLMod",
-      "repository": "1lylily/LilysQoLMod",
-      "url": "https://github.com/1lylily/LilysQoLMod",
-      "description": "\"Quality of Life\" Weave Loader mod.",
+      "name": "oofmod",
+      "repository": "thaYt/oofmod",
+      "url": "https://github.com/thaYt/oofmod",
+      "description": "oofmod for weave",
       "newWeave": false
     },
     {
@@ -324,10 +331,38 @@
       "newWeave": false
     },
     {
-      "name": "weavebasicflight",
-      "repository": "Tryflle/weavebasicflight",
-      "url": "https://github.com/Tryflle/weavebasicflight",
-      "description": "A vanilla flight mod for weave",
+      "name": "CPSCap",
+      "repository": "Tryflle/CPSCap",
+      "url": "https://github.com/Tryflle/CPSCap",
+      "description": "A mod that caps your CPS.",
+      "newWeave": false
+    },
+    {
+      "name": "WeaveChamsMod",
+      "repository": "Tryflle/WeaveChamsMod",
+      "url": "https://github.com/Tryflle/WeaveChamsMod",
+      "description": "Chams!",
+      "newWeave": false
+    },
+    {
+      "name": "LilysQoLMod",
+      "repository": "1lylily/LilysQoLMod",
+      "url": "https://github.com/1lylily/LilysQoLMod",
+      "description": "\"Quality of Life\" Weave Loader mod.",
+      "newWeave": false
+    },
+    {
+      "name": "DeathEffects",
+      "repository": "ZirctaWeave/DeathEffects",
+      "url": "https://github.com/ZirctaWeave/DeathEffects",
+      "description": null,
+      "newWeave": false
+    },
+    {
+      "name": "weave-fastplace",
+      "repository": "qdfqdfqdfqdf/weave-fastplace",
+      "url": "https://github.com/qdfqdfqdfqdf/weave-fastplace",
+      "description": "standalone skidded fastplace - use /fastplace to toggle",
       "newWeave": false
     },
     {
@@ -335,27 +370,6 @@
       "repository": "770grappenmaker/weave-optifine-url",
       "url": "https://github.com/770grappenmaker/weave-optifine-url",
       "description": "Allows you to specify a new URL for the Optifine cape server",
-      "newWeave": false
-    },
-    {
-      "name": "NoNightVision",
-      "repository": "Oery/NoNightVision",
-      "url": "https://github.com/Oery/NoNightVision",
-      "description": "A Weave Mod to disable Night Vision",
-      "newWeave": false
-    },
-    {
-      "name": "mm-utils",
-      "repository": "imyanice/mm-utils",
-      "url": "https://github.com/imyanice/mm-utils",
-      "description": "A Hypixel Murder Mystery Utilities Weave mod (Lunar Client compatible).",
-      "newWeave": false
-    },
-    {
-      "name": "oofmod",
-      "repository": "thaYt/oofmod",
-      "url": "https://github.com/thaYt/oofmod",
-      "description": "oofmod for weave",
       "newWeave": false
     }
   ]
