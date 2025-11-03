@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-27T01:56:24.029113",
+  "timestamp": "2025-11-03T01:54:15.025830",
   "developers": [
     {
       "name": "Weave-MC",
@@ -52,6 +52,27 @@
           "newWeave": true
         },
         {
+          "name": "WeaveShortcuts",
+          "repository": "Tryflle/WeaveShortcuts",
+          "url": "https://github.com/Tryflle/WeaveShortcuts",
+          "description": "Make command shortcuts",
+          "newWeave": false
+        },
+        {
+          "name": "WeaveChamsMod",
+          "repository": "Tryflle/WeaveChamsMod",
+          "url": "https://github.com/Tryflle/WeaveChamsMod",
+          "description": "Chams!",
+          "newWeave": false
+        },
+        {
+          "name": "CPSCap",
+          "repository": "Tryflle/CPSCap",
+          "url": "https://github.com/Tryflle/CPSCap",
+          "description": "A mod that caps your CPS.",
+          "newWeave": false
+        },
+        {
           "name": "WeaveSlowMining",
           "repository": "Tryflle/WeaveSlowMining",
           "url": "https://github.com/Tryflle/WeaveSlowMining",
@@ -66,45 +87,10 @@
           "newWeave": false
         },
         {
-          "name": "InventorySnow",
-          "repository": "Tryflle/InventorySnow",
-          "url": "https://github.com/Tryflle/InventorySnow",
-          "description": "InventorySnow",
-          "newWeave": false
-        },
-        {
-          "name": "WeaveShortcuts",
-          "repository": "Tryflle/WeaveShortcuts",
-          "url": "https://github.com/Tryflle/WeaveShortcuts",
-          "description": "Make command shortcuts",
-          "newWeave": false
-        },
-        {
-          "name": "CPSCap",
-          "repository": "Tryflle/CPSCap",
-          "url": "https://github.com/Tryflle/CPSCap",
-          "description": "A mod that caps your CPS.",
-          "newWeave": false
-        },
-        {
           "name": "kotlin-base",
           "repository": "Tryflle/kotlin-base",
           "url": "https://github.com/Tryflle/kotlin-base",
           "description": null,
-          "newWeave": false
-        },
-        {
-          "name": "WeaveChamsMod",
-          "repository": "Tryflle/WeaveChamsMod",
-          "url": "https://github.com/Tryflle/WeaveChamsMod",
-          "description": "Chams!",
-          "newWeave": false
-        },
-        {
-          "name": "WeaveQuickReport",
-          "repository": "Tryflle/WeaveQuickReport",
-          "url": "https://github.com/Tryflle/WeaveQuickReport",
-          "description": "QuickReport (https://github.com/varun7654/QuickReport/) rewritten for weave. Also comes with autododge.",
           "newWeave": false
         }
       ]
@@ -144,6 +130,20 @@
           "newWeave": false
         },
         {
+          "name": "PlayerScreenshot",
+          "repository": "exejar/PlayerScreenshot",
+          "url": "https://github.com/exejar/PlayerScreenshot",
+          "description": "Weave mod that takes screenshots of only your player",
+          "newWeave": false
+        },
+        {
+          "name": "WeaveYouTube",
+          "repository": "exejar/WeaveYouTube",
+          "url": "https://github.com/exejar/WeaveYouTube",
+          "description": "YouTube showcase on Weave and how it can be used to create a simple 2D ESP in Minecraft.",
+          "newWeave": false
+        },
+        {
           "name": "Kolour",
           "repository": "exejar/Kolour",
           "url": "https://github.com/exejar/Kolour",
@@ -155,13 +155,6 @@
           "repository": "exejar/WeaveClientTemplate",
           "url": "https://github.com/exejar/WeaveClientTemplate",
           "description": "Minecraft Utility Client Template for Weave written in Kotlin",
-          "newWeave": false
-        },
-        {
-          "name": "WeaveYouTube",
-          "repository": "exejar/WeaveYouTube",
-          "url": "https://github.com/exejar/WeaveYouTube",
-          "description": "YouTube showcase on Weave and how it can be used to create a simple 2D ESP in Minecraft.",
           "newWeave": false
         }
       ]
@@ -196,20 +189,6 @@
           "newWeave": false
         },
         {
-          "name": "ProjectileTrails",
-          "repository": "ZirctaWeave/ProjectileTrails",
-          "url": "https://github.com/ZirctaWeave/ProjectileTrails",
-          "description": null,
-          "newWeave": false
-        },
-        {
-          "name": "ModernPotions",
-          "repository": "ZirctaWeave/ModernPotions",
-          "url": "https://github.com/ZirctaWeave/ModernPotions",
-          "description": null,
-          "newWeave": false
-        },
-        {
           "name": "NoItemRelease",
           "repository": "ZirctaWeave/NoItemRelease",
           "url": "https://github.com/ZirctaWeave/NoItemRelease",
@@ -217,28 +196,23 @@
           "newWeave": false
         },
         {
-          "name": "AntiAntiAgent",
-          "repository": "ZirctaWeave/AntiAntiAgent",
-          "url": "https://github.com/ZirctaWeave/AntiAntiAgent",
+          "name": "Crow",
+          "repository": "ZirctaWeave/Crow",
+          "url": "https://github.com/ZirctaWeave/Crow",
           "description": null,
           "newWeave": false
         },
         {
-          "name": "stormy",
-          "repository": "ZirctaWeave/stormy",
-          "url": "https://github.com/ZirctaWeave/stormy",
+          "name": "ProjectileTrails",
+          "repository": "ZirctaWeave/ProjectileTrails",
+          "url": "https://github.com/ZirctaWeave/ProjectileTrails",
           "description": null,
           "newWeave": false
-        }
-      ]
-    },
-    {
-      "name": "mallusrgreatv2",
-      "projects": [
+        },
         {
-          "name": "WeaveCrack",
-          "repository": "mallusrgreatv2/WeaveCrack",
-          "url": "https://github.com/mallusrgreatv2/WeaveCrack",
+          "name": "AntiAntiAgent",
+          "repository": "ZirctaWeave/AntiAntiAgent",
+          "url": "https://github.com/ZirctaWeave/AntiAntiAgent",
           "description": null,
           "newWeave": false
         }
@@ -253,29 +227,12 @@
           "url": "https://github.com/PianoPenguin471/SessionLogin",
           "description": "Lets you login to Minecraft with a session Id. WIP",
           "newWeave": false
-        }
-      ]
-    },
-    {
-      "name": "MaciejK2",
-      "projects": [
+        },
         {
-          "name": "BmcGG",
-          "repository": "MaciejK2/BmcGG",
-          "url": "https://github.com/MaciejK2/BmcGG",
-          "description": "AutoGG for BlocksMC.com using Weave!",
-          "newWeave": false
-        }
-      ]
-    },
-    {
-      "name": "betterclient",
-      "projects": [
-        {
-          "name": "Weave-mod-menu",
-          "repository": "betterclient/Weave-mod-menu",
-          "url": "https://github.com/betterclient/Weave-mod-menu",
-          "description": "Mod menu for weave",
+          "name": "RavenWeaveLite",
+          "repository": "PianoPenguin471/RavenWeaveLite",
+          "url": "https://github.com/PianoPenguin471/RavenWeaveLite",
+          "description": null,
           "newWeave": false
         }
       ]
@@ -293,6 +250,54 @@
       ]
     },
     {
+      "name": "TianmuTNT",
+      "projects": [
+        {
+          "name": "mm-utils-cn",
+          "repository": "TianmuTNT/mm-utils-cn",
+          "url": "https://github.com/TianmuTNT/mm-utils-cn",
+          "description": "[Hypixel Murder Mystery \u5bc6\u5ba4\u6740\u624b] mm-utils\u7684\u6c49\u5316\u7248\uff0c\u4fee\u590d\u4e86\u539f\u7248\u7684\u4e00\u4e9b\u95ee\u9898",
+          "newWeave": false
+        }
+      ]
+    },
+    {
+      "name": "qdfqdfqdfqdf",
+      "projects": [
+        {
+          "name": "weave-fastplace",
+          "repository": "qdfqdfqdfqdf/weave-fastplace",
+          "url": "https://github.com/qdfqdfqdfqdf/weave-fastplace",
+          "description": "standalone skidded fastplace - use /fastplace to toggle",
+          "newWeave": false
+        }
+      ]
+    },
+    {
+      "name": "770grappenmaker",
+      "projects": [
+        {
+          "name": "weave-optifine-url",
+          "repository": "770grappenmaker/weave-optifine-url",
+          "url": "https://github.com/770grappenmaker/weave-optifine-url",
+          "description": "Allows you to specify a new URL for the Optifine cape server",
+          "newWeave": false
+        }
+      ]
+    },
+    {
+      "name": "NatselCat",
+      "projects": [
+        {
+          "name": "WeavePeacefulMining",
+          "repository": "NatselCat/WeavePeacefulMining",
+          "url": "https://github.com/NatselCat/WeavePeacefulMining",
+          "description": "Weave Loader recreation of Cosmic Client's peaceful mining feature.",
+          "newWeave": false
+        }
+      ]
+    },
+    {
       "name": "1lylily",
       "projects": [
         {
@@ -301,12 +306,17 @@
           "url": "https://github.com/1lylily/LilysQoLMod",
           "description": "\"Quality of Life\" Weave Loader mod.",
           "newWeave": false
-        },
+        }
+      ]
+    },
+    {
+      "name": "SleepyFish-YT",
+      "projects": [
         {
-          "name": "coc-banana",
-          "repository": "1lylily/coc-banana",
-          "url": "https://github.com/1lylily/coc-banana",
-          "description": null,
+          "name": "Smok",
+          "repository": "SleepyFish-YT/Smok",
+          "url": "https://github.com/SleepyFish-YT/Smok",
+          "description": "A good and one of the first Weave ghost clients",
           "newWeave": false
         }
       ]
@@ -362,42 +372,6 @@
       ]
     },
     {
-      "name": "Ultramicroscope",
-      "projects": [
-        {
-          "name": "NameHistory",
-          "repository": "Ultramicroscope/NameHistory",
-          "url": "https://github.com/Ultramicroscope/NameHistory",
-          "description": "Adds the /history (or /his) command to query Laby API for a user's Name History",
-          "newWeave": false
-        }
-      ]
-    },
-    {
-      "name": "solsahar",
-      "projects": [
-        {
-          "name": "Twitch-Chat-In-Game",
-          "repository": "solsahar/Twitch-Chat-In-Game",
-          "url": "https://github.com/solsahar/Twitch-Chat-In-Game",
-          "description": null,
-          "newWeave": false
-        }
-      ]
-    },
-    {
-      "name": "Youded-byte",
-      "projects": [
-        {
-          "name": "unrestricted",
-          "repository": "Youded-byte/unrestricted",
-          "url": "https://github.com/Youded-byte/unrestricted",
-          "description": null,
-          "newWeave": false
-        }
-      ]
-    },
-    {
       "name": "supercoolspy",
       "projects": [
         {
@@ -405,6 +379,18 @@
           "repository": "supercoolspy/PitUtilsLunar",
           "url": "https://github.com/supercoolspy/PitUtilsLunar",
           "description": null,
+          "newWeave": false
+        }
+      ]
+    },
+    {
+      "name": "Perrystuff",
+      "projects": [
+        {
+          "name": "AutoWhoFix",
+          "repository": "Perrystuff/AutoWhoFix",
+          "url": "https://github.com/Perrystuff/AutoWhoFix",
+          "description": "AutoWho for the new Bedwars and Duels prelobby name obfuscation.",
           "newWeave": false
         }
       ]
@@ -422,6 +408,18 @@
       ]
     },
     {
+      "name": "Jimin69",
+      "projects": [
+        {
+          "name": "MinecraftPwetUtils",
+          "repository": "Jimin69/MinecraftPwetUtils",
+          "url": "https://github.com/Jimin69/MinecraftPwetUtils",
+          "description": "Minecraft Personal Utilities mod using Weave API to use on restricted/locked down clients.",
+          "newWeave": false
+        }
+      ]
+    },
+    {
       "name": "JavaSkid",
       "projects": [
         {
@@ -434,13 +432,13 @@
       ]
     },
     {
-      "name": "SleepyFish-YT",
+      "name": "solsahar",
       "projects": [
         {
-          "name": "Smok",
-          "repository": "SleepyFish-YT/Smok",
-          "url": "https://github.com/SleepyFish-YT/Smok",
-          "description": "A good and one of the first Weave ghost clients",
+          "name": "Twitch-Chat-In-Game",
+          "repository": "solsahar/Twitch-Chat-In-Game",
+          "url": "https://github.com/solsahar/Twitch-Chat-In-Game",
+          "description": null,
           "newWeave": false
         }
       ]
@@ -470,49 +468,25 @@
       ]
     },
     {
-      "name": "NatselCat",
+      "name": "Ultramicroscope",
       "projects": [
         {
-          "name": "WeavePeacefulMining",
-          "repository": "NatselCat/WeavePeacefulMining",
-          "url": "https://github.com/NatselCat/WeavePeacefulMining",
-          "description": "Weave Loader recreation of Cosmic Client's peaceful mining feature.",
+          "name": "NameHistory",
+          "repository": "Ultramicroscope/NameHistory",
+          "url": "https://github.com/Ultramicroscope/NameHistory",
+          "description": "Adds the /history (or /his) command to query Laby API for a user's Name History",
           "newWeave": false
         }
       ]
     },
     {
-      "name": "770grappenmaker",
+      "name": "emirsassan",
       "projects": [
         {
-          "name": "weave-optifine-url",
-          "repository": "770grappenmaker/weave-optifine-url",
-          "url": "https://github.com/770grappenmaker/weave-optifine-url",
-          "description": "Allows you to specify a new URL for the Optifine cape server",
-          "newWeave": false
-        }
-      ]
-    },
-    {
-      "name": "qdfqdfqdfqdf",
-      "projects": [
-        {
-          "name": "weave-fastplace",
-          "repository": "qdfqdfqdfqdf/weave-fastplace",
-          "url": "https://github.com/qdfqdfqdfqdf/weave-fastplace",
-          "description": "standalone skidded fastplace - use /fastplace to toggle",
-          "newWeave": false
-        }
-      ]
-    },
-    {
-      "name": "thaYt",
-      "projects": [
-        {
-          "name": "oofmod",
-          "repository": "thaYt/oofmod",
-          "url": "https://github.com/thaYt/oofmod",
-          "description": "oofmod for weave",
+          "name": "BaseClient",
+          "repository": "emirsassan/BaseClient",
+          "url": "https://github.com/emirsassan/BaseClient",
+          "description": "Updated base client for weave",
           "newWeave": false
         }
       ]
